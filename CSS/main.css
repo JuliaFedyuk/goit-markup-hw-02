@@ -46,9 +46,8 @@ nav {
   color: var(--accent-color);
 }
 
-.phone,
-.mail {
-  color: #757575;
+.studio:hover {
+  color: orange;
 }
 
 h1 {
@@ -131,4 +130,12 @@ button {
   font-size: 18px;
   line-height: 2.5;
   letter-spacing: 0.06em;
+}
+
+.contact {
+  color: var(--accent-color);
+}
+
+.mail:hover {
+  color: orange;
 }
